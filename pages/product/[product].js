@@ -22,7 +22,7 @@ const ProductDetailPage = ({product}) => {
         <Layout user={user}>
             <Box className="sb_container">
               <Head>
-                <title>{product.title} - SwatchBack</title>
+                <title>{product.title} - FindMyDupes</title>
               </Head>
               <Stack direction={['column', 'column', 'row', 'row', 'row']} mt={'2%'}>
                 <Box width={['100%','100%','40%','40%','40%']} mt={'2%'}>

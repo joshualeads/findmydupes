@@ -104,7 +104,7 @@ const Login = () => {
         <Layout user={user}>
             <Head>
                 <title>
-                    Login - SwatchBack
+                    Login - FindMyDupes
                 </title>
             </Head>
             <Box className="sb_container">

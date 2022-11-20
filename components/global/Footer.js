@@ -63,8 +63,8 @@ const Footer = () => {
                     spacing={4}
                     justify={{ base: 'center', md: 'space-between' }}
                     align={{ base: 'center', md: 'center' }}>
-                    <Logo><Heading fontSize={"3xl"} _hover={{cursor:'pointer'}}>SwatchBack</Heading></Logo>
-                    <Text>© 2022 SwatchBack. All rights reserved</Text>
+                    <Logo><Heading fontSize={"3xl"} _hover={{cursor:'pointer'}}>FindMyDupes</Heading></Logo>
+                    <Text>© 2022 FindMyDupes. All rights reserved</Text>
                     <Stack direction={'row'} spacing={6}>
                         <SocialButton label={'Twitter'} href={'#'} >
                             <FaTwitter  color={useColorModeValue('gray.700', 'gray.200')} />

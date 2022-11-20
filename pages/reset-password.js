@@ -87,7 +87,7 @@ const ResetPassword = () => {
         <Layout user={user}>
             <Head>
                 <title>
-                    Reset Password - SwatchBack
+                    Reset Password - FindMyDupes
                 </title>
             </Head>
             <Box className="sb_container">

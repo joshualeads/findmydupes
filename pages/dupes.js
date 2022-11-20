@@ -12,7 +12,7 @@ const Dupes = () => {
         <Layout user={user}>
             <Head>
                 <title>
-                    Dupes - SwatchBack
+                    Dupes - FindMyDupes
                 </title>
             </Head>
             <Box className="sb_container">

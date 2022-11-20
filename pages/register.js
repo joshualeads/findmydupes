@@ -114,7 +114,7 @@ const Register = () => {
         <Layout>
             <Head>
                 <title>
-                    Register - SwatchBack
+                    Register - FindMyDupes
                 </title>
             </Head>
             <Box className="sb_container">
