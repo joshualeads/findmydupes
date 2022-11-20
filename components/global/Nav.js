@@ -111,7 +111,7 @@ const Nav = () => {
                                 <Link href='/' py={'5'} _hover={{
                                     textDecoration: 'none',
                                 }}>
-                                    SwatchBack
+                                    FindMyDupes
                                     {/* <Image src='/sbHeader.png' alt='SwatchBack' width={'95%'} height={'95%'}></Image> */}
                                 </Link>
                             </Heading>
