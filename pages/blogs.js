@@ -22,7 +22,7 @@ const Blogs = ({ articles, categories, trending, topStories, recentStories }) =>
     return (
         <Layout user={user}>
             <Head>
-                <title>Blog - SwatchBack</title>
+                <title>Blog - FindMyDupes</title>
             </Head>
             <Box className={'sb_container'}>
             <Container

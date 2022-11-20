@@ -76,7 +76,7 @@ const Blog = ({ story, categories }) => {
     return(
         <Layout user={user}>
             <Head>
-              <title>{storyInfo.title} - SwatchBack</title>
+              <title>{storyInfo.title} - FindMyDupes</title>
             </Head>
             <Box className="sb_container">
                 <Box w="100%" alignItems={"center"} textAlign={"center"}>

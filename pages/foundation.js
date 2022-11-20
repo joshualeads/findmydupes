@@ -11,7 +11,7 @@ const Foundation = () => {
     return (
         <Layout user={user}>
             <Head>
-                <title>Foundation - SwatchBack</title>
+                <title>Foundation - FindMyDupes</title>
             </Head>
             <Box className="sb_container">
                 <Heading as="h2" size="xl" mt={40} mb={10} textAlign={"center"}>
