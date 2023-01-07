@@ -11,7 +11,7 @@ const ContactUs = () => {
         <Layout user={user}>
             <Head>
                 <title>
-                    Contact Us - SwatchBack
+                    Contact Us - FindMyDupes
                 </title>
             </Head>
             <Box className="sb_container">

@@ -11,7 +11,7 @@ const Profile = () => {
         <Layout user={user}>
             <Head>
                 <title>
-                    My Account - SwatchBack
+                    My Account - FindMyDupes
                 </title>
             </Head>
             <Box className="sb_container">

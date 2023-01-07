@@ -112,7 +112,7 @@ const Nav = () => {
                                     textDecoration: 'none',
                                 }}>
                                     FindMyDupes
-                                    {/* <Image src='/sbHeader.png' alt='SwatchBack' width={'95%'} height={'95%'}></Image> */}
+                                    {/* <Image src='/sbHeader.png' alt='FindMyDupes' width={'95%'} height={'95%'}></Image> */}
                                 </Link>
                             </Heading>
                         </Box>

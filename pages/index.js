@@ -14,7 +14,7 @@ export default function Home() {
     <Layout user={user}>
       <div className={styles.container}>
         <Head>
-          <title>SwatchBack</title>
+          <title>FindMyDupes</title>
           <meta name="description" content="Swatch Back" />
           <link rel="icon" href="/favicon.ico" />
         </Head>
@@ -23,7 +23,7 @@ export default function Home() {
 
           {/* 
           <h1 className={styles.title}>
-            Welcome to <Link href="/"><span className='sbLink'>SwatchBack!</span></Link>
+            Welcome to <Link href="/"><span className='sbLink'>FindMyDupes!</span></Link>
           </h1>
 
           <p className={styles.description}>
